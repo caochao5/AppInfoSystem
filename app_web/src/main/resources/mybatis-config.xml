@@ -6,6 +6,7 @@
     <settings>
         <setting name="lazyLoadingEnabled" value="false"/>
     </settings>
+    <!--给所有实体类取别名，方便sql映射文件的使用-->
     <typeAliases>
         <package name="cn.zhwxjjh.yctts.pojo"/>
     </typeAliases>
